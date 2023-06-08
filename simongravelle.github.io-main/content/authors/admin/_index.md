@@ -2,11 +2,11 @@
 
 
 # Display name
-title: Simon Gravelle
+title: Brinthan Kanesalingam
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Brinthan
+last_name: Kanesalingam
 
 # Status emoji
 status:
@@ -16,21 +16,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSCA Fellow
+role: Post Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, University Grenoble Alpes
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: University of Moratuwa
+    url: https://uom.lk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer physicist in soft matter and fluids at interfaces, currently at the LIPhy in Grenoble (France).
+bio: I am currently focused on researching various aspects within the field of M3 (Minerals, Materials, and Mining) Engineering along with Machine Learning and Digital Image Processing.
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Minerals, Materials, and Mining
+  - Computer Vision
+  - Advance Characterisation
 
 # Education to show in About widget
 education:
@@ -47,21 +47,22 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GravelleSimon
-    label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=abDTQFMAAAAJ&hl=en
+    display:
+      header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
-  - icon: gitlab
+    link: https://github.com/BrinthanK
+  - icon: linkedin
     icon_pack: fab
-    link: https://gitlab.com/sgravelle
+    link: https://www.linkedin.com/in/brinthan187/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Brinthan-Kanesalingam
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -70,23 +71,18 @@ social:
     link: files/cv/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+#email: 'kanesalingambrinthan187@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 
+****
 **About me**
 
-I am a physicist in soft matter and fluids at interfaces at the [LIPhy](https://liphy.univ-grenoble-alpes.fr/) in Grenoble (France). I just received the [MSCA](https://marie-sklodowska-curie-actions.ec.europa.eu/) grant *NanoSep* to study the demixing of fluid mixtures by hybrid nanoporous materials.
+I am a postgraduate student at the University of Moratuwa, specialising in the exploration and characterisation of Coal Fly Ash, a waste material. My research covers a broad range of areas, including mineral processing through separation technology, material synthesis and characterisation, machine learning, and digital image processing. My current primary focus is on computational X-ray microanalysis and its applications for materials at the nano- and micron-scale.
+{style="text-align: justify;"}
 
-**Open source and open data**
-
-* [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html), the Python toolkit for analyzing confined molecular simulations
-* my [Github](https://github.com/simongravelle/) for repository molecular simulation scripts and data
-
-**Outreach**
-
-* [LAMMPS tutorials](https://lammpstutorials.github.io) for beginners and advanced LAMMPS users
-* [GROMACS tutorials](https://gromacstutorials.github.io) for beginners and advanced GROMACS users
-* [gallery of animations](https://www.youtube.com/@SimonGravelle) of molecular systems
+Additionally, I have a keen interest in applying machine learning and deep learning approaches to address challenges related to monitoring and optimising parameters in earth observation through remote sensing.
+{style="text-align: justify;"}
