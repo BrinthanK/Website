@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Personal page'
-    twitter: 'Gravellesimon'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,19 +36,19 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: false
+    show_search: true
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Simon Gravelle. This work is licensed under {license}.'
+    notice: '© {2023} Brinthan Kanesalingam. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: true
       share_alike: true
-      allow_commercial: true
+      allow_commercial: false
 
 # Localization
 
@@ -74,7 +74,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/simongravelle/simongravelle.github.io'
+    url: ''
     content_dir: content
     branch: master
   avatar:

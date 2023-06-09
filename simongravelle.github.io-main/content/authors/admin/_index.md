@@ -35,9 +35,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+  - course: MSc by Research
+    institution: University of Moratuwa
+    year: 2022-23
+  - course: BSc (Hons) in Engineering
+    institution: University of Moratuwa
+    year: 2017-22
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,9 +69,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
+  - icon: orcid
     icon_pack: ai
-    link: files/cv/cv.pdf
+    link: https://orcid.org/0000-0002-9175-0338
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: 'kanesalingambrinthan187@gmail.com'
@@ -78,10 +81,10 @@ highlight_name: true
 
 ---
 
-****
-**About me**
 
-I am a postgraduate student at the University of Moratuwa, specialising in the exploration and characterisation of Coal Fly Ash, a waste material. My research covers a broad range of areas, including mineral processing through separation technology, material synthesis and characterisation, machine learning, and digital image processing. My current primary focus is on computational X-ray microanalysis and its applications for materials at the nano- and micron-scale.
+**About me**
+****
+I am a <span style="color:blue;">postgraduate student</span> at the *University of Moratuwa*, specialising in the exploration and characterisation of Coal Fly Ash, a waste material. My research covers a broad range of areas, including mineral processing through separation technology, material synthesis and characterisation, machine learning, and digital image processing. My current primary focus is on **computational X-ray microanalysis** and its applications for materials at the nano- and micron-scale.
 {style="text-align: justify;"}
 
 Additionally, I have a keen interest in applying machine learning and deep learning approaches to address challenges related to monitoring and optimising parameters in earth observation through remote sensing.
